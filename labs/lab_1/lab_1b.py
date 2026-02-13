@@ -52,7 +52,7 @@ def check_operation_validity(prompt2:str) -> str:
         if operation in valid_operations:
             return operation
         else:
-            print("Please enter either add, subtract, multiply, or divide!")
+            print("Please enter either add, subtract, multiply, or divide as your operation!")
 
 def main():
     
