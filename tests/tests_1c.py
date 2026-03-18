@@ -1,17 +1,5 @@
-<<<<<<< Updated upstream
 import pytest
 from labs.lab_1.lab_1c import max_subarray_sum
-=======
-<<<<<<< HEAD
-# tests/tests_1c.py
-
-import pytest
-from labs.lab_1.lab_1c import max_subarray_sum  # <- correct path
-=======
-import pytest
-from labs.lab_1.lab_1c import max_subarray_sum
->>>>>>> 6582b4869d920d8afb1e54e1e7340c28e1f2fca7
->>>>>>> Stashed changes
 
 def test_mixed_numbers():
     assert max_subarray_sum([-2,1,-3,4,-1,2,1,-5,4]) == 6
