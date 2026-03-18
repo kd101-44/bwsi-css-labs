@@ -1,4 +1,4 @@
-name: simple_calculator unit test
+name: lab_1c unit test
   
 on: [push]  
   
